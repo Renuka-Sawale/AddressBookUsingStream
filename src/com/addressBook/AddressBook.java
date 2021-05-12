@@ -5,8 +5,7 @@ import java.util.Scanner;
 public class AddressBook {
 
     public static void main(String[] args) {
-        System.out.println("Welcome to address book stream");
-        /*Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         Address addr = new Address();
         int option;
         System.out.println("Welcome to Address Book System");
@@ -46,7 +45,6 @@ public class AddressBook {
                     break;
             }
         } while (option !=0);
-    }*/
     }
 }
 
